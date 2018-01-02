@@ -1,9 +1,9 @@
 # vertically-centering
-{{Insert TexT}}
+Vertically centering objects in web design can cause excessive headaches. Here's how you can vertically center objects with ease using some simple HTML and default Bootstrap. 
 
 ## Tutorial
 
-For detailed instruction's, view Solodev's [LINK TITLE](https://www.solodev.com/) article.
+For detailed instruction's, view Solodev's [How to Vertically Center Elements with Bootstrap](http://origin.solodev.com/blog/web-design/how-to-vertically-center-elements-with-bootstrap.stml) article.
 
 ## Demo
 
